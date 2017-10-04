@@ -5,9 +5,38 @@
     <description>In Data We Trust</description>
     <link>https://zipingxu.github.io/</link>
     <atom:link href="https://zipingxu.github.io/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Mon, 02 Oct 2017 12:55:24 +0800</pubDate>
-    <lastBuildDate>Mon, 02 Oct 2017 12:55:24 +0800</lastBuildDate>
+    <pubDate>Wed, 04 Oct 2017 18:02:08 +0800</pubDate>
+    <lastBuildDate>Wed, 04 Oct 2017 18:02:08 +0800</lastBuildDate>
     <generator>Jekyll v3.6.0</generator>
+    
+      <item>
+        <title>test</title>
+        <description>&lt;h1 id=&quot;header1&quot;&gt;Header1&lt;/h1&gt;
+
+&lt;h2 id=&quot;header2&quot;&gt;Header2&lt;/h2&gt;
+
+&lt;h2 id=&quot;header3&quot;&gt;Header3&lt;/h2&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;hahaha&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;div class=&quot;language-python highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;kn&quot;&gt;import&lt;/span&gt; &lt;span class=&quot;nn&quot;&gt;numpy&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;as&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;np&lt;/span&gt;
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;p&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;a&lt;/code&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;img\home-bg-o.jpg&quot; alt=&quot;test for picture&quot; /&gt;&lt;/p&gt;
+
+</description>
+        <pubDate>Mon, 02 Oct 2017 20:00:00 +0800</pubDate>
+        <link>https://zipingxu.github.io/2017/10/02/hello-2015/</link>
+        <guid isPermaLink="true">https://zipingxu.github.io/2017/10/02/hello-2015/</guid>
+        
+        <category>生活</category>
+        
+        
+      </item>
     
   </channel>
 </rss>
