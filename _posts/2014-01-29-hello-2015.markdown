@@ -28,5 +28,5 @@ import numpy as np
 
 ``a``
 
-![test for picture](img\home-bg-o.jpg)
+![test for picture](\img\home-bg-o.jpg)
 
