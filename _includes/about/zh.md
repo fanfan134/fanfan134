@@ -1,7 +1,7 @@
-> 量子输运、固态材料、介观器件
+> Quantum transport, Solid state matter, Mesoscopic devices
 
-我是许子凡，中国科学技术大学应用物理系在读。
+Hey, I am **Zifan Xu**. A Student in University of Science and Technology of China majors in Applied Physics. 
 
-我的研究兴趣是固态材料中的奇异电子态和用于量子信息的介观器件。
+My current interest focuses on **novel phases of electrons** in solid state matter and **mesoscopic devices** for applications in quantum inforamtion processing. 
 
-我现在正在从事两个本科生科研项目：(1) 搭建低温测量系统；(2) 研究 LaArO3/SrTiO3 界面的量子现象。更详细的信息可以在Projects 中查阅
+I am now working on two undergraduate research projects: **(1)** Building a cryogenic measurement system, **(2)** Exploring LaArO3/SrTiO3 interface. More information is available in part of  ***Projects***
