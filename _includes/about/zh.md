@@ -1,4 +1,4 @@
-> Quantum transport, Solid state matter, Mesoscopic devices
+> Quantum transport, Solid state materials, Mesoscopic devices
 
 Hey, I am **Zifan Xu**. A Student in University of Science and Technology of China majors in Applied Physics. 
 
